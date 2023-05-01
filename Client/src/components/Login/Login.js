@@ -41,7 +41,7 @@ const Login = () => {
 
     </div>
 <div className='g-signIn'>
-    <GoogleOAuthProvider clientId="1061457779156-4iu80nbgrbbf7jkg7tjibt1jc0mi2t4c.apps.googleusercontent.com">
+    <GoogleOAuthProvider clientId="1061457779156-0pbantbl8hajf20ad9kv56ecicocq780.apps.googleusercontent.com">
     {showLoginButton ?
        <GoogleLogin
        onSuccess={OnLoginSuccess}
