@@ -1,0 +1,22 @@
+.g-signIn{
+
+    position: absolute;
+    top: 70%;
+    left: 43%;
+    background-color: aqua;
+    /* height: 24rem;
+    width: 17rem; */
+    margin-top: -50px;
+    margin-left: -50px;
+    
+}
+
+.backimg{
+    background-image: url('../Login/login.jpg');
+    background-color: #cccccc; /* Used if the image is unavailable */
+  height: 25rem; /* You must set a specified height */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+
+}
